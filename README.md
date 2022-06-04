@@ -1,10 +1,8 @@
 # Cryptocurrency Tracker with React JS, Material UI and Chart JS
 
-
 #### Here is a API of CoinGecko (https://www.coingecko.com/en/api)
 
-
-#### Here is a working live demo :  https://crypto-hunter.netlify.app/
+#### Here is a working application :  https://crypto-hunter.netlify.app/
 
 ## Built with 
 
